@@ -1,0 +1,12 @@
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\bin\Debug\SecurityBoard.exe.config
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\bin\Debug\SecurityBoard.exe
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\bin\Debug\SecurityBoard.pdb
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.csprojAssemblyReference.cache
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.Properties.Resources.resources
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.csproj.GenerateResource.cache
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.csproj.CoreCompileInputs.cache
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.exe
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.pdb
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.Credenciales.resources
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.Dashboard.resources
+C:\Users\Mleon\OneDrive\Documentos\GitHub\SecurityBoard\SecurityBoard\SecurityBoard\obj\Debug\SecurityBoard.Configuraciones.resources
